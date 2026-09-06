@@ -1,2 +1,2 @@
-obj-m :=main.o
+obj-m := vetri.o
 
